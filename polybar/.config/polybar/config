@@ -1,0 +1,247 @@
+; vi: 
+
+[settings]
+screenchange-reload = true
+
+[colors]
+;background = ${xrdb:background}
+background = #d901090c
+foreground = #ccffffff
+color0 = ${xrdb:color0}
+color1 = ${xrdb:color1}
+color2 = ${xrdb:color2}
+color3 = ${xrdb:color3}
+color4 = ${xrdb:color4}
+color5 = ${xrdb:color5}
+color6 = ${xrdb:color6}
+color7 = ${xrdb:color7}
+color8 = ${xrdb:color8}
+color9 = ${xrdb:color9}
+color10 = ${xrdb:color10}
+color11 = ${xrdb:color11}
+color12 = ${xrdb:color12}
+color13 = ${xrdb:color13}
+color14 = ${xrdb:color14}
+color15 = ${xrdb:color15}
+
+[bar/top]
+;monitor = DP-1
+;monitor = ${env:MONITOR:}
+monitor-fallback = ${env:MONITOR:}
+height = 28
+width = 100%
+background = ${colors.background}
+foreground = ${colors.foreground}
+padding-right = 24
+module-margin = 3
+pin-workspaces = true
+overline-size = 2
+overline-color = ${colors.color6}
+underline-size = 2
+underline-color = ${colors.color6}
+line-color = ${colors.background}
+line-size = 2
+
+font-0 = Roboto:size=11;1
+font-1 = Font Awesome 5 Free:style=solid:pixelsize=10;1
+font-2 = Unifont:size=10:weight=bold;1
+font-3 = Font Awesome 5 Free:style=regular:pixelsize=10;1
+font-4 = Fontello:pixelsize=10;1
+
+modules-left = bspwm
+modules-center = clock
+modules-right = filesystem cpu temp volume powermenu
+
+tray-position = right
+tray-padding = 5
+tray-detached = true
+
+wm-restack = bspwm
+
+
+;[bar/top_external]
+;monitor = HDMI1
+;height = 28
+;width = 100%
+;padding-right = 3
+;module-margin = 3
+;background = ${colors.background}
+;foreground = ${colors.foreground}
+
+;modules-left = bspwm
+;modules-right = volume clock powermenu
+
+;font-1 = Font Awesome 5 Free:style=solid:pixelsize=10;1
+;font-2 = Unifont:size=10:weight=bold;1
+;font-3 = Font Awesome 5 Free:style=regular:pixelsize=10;1
+
+;wm-restack = bspwm
+
+;-----BSPWM-------------------------------------;
+
+[module/bspwm]
+type = internal/bspwm
+pin-workspaces = true
+inline-mode = true
+enable-click = true
+enable-scroll = true
+reverse-scroll = true
+format = <label-state> <label-mode>
+ 
+ws-icon-0=terminal;
+ws-icon-1=web;
+ws-icon-2=media;
+ws-icon-3=games;
+ws-icon-4=draw;
+ws-icon-5=virtual;
+ 
+label-focused = %icon%
+label-focused-background = #bf262b2d
+;label-focused-background = #773f3f3f
+label-focused-underline = ${colors.color6}
+label-focused-padding = 4
+ 
+label-occupied = %icon%
+label-occupied-padding = 4
+ 
+label-empty = %icon%
+label-empty-foreground = #55
+label-empty-padding = 4
+label-empty-font = 3
+
+label-urgent = !
+label-urgent-foreground = ${colors.color5}
+label-urgent-padding = 4
+
+;-----Jriver Controls-------------------------------------;
+
+[module/jcontrol]
+;type = custom/script
+type = custom/text
+;left-click = /home/cabe/.config/polybar/jrivercontrols.sh
+;label-previous = 
+;exec-if = left-click   
+content =
+;label = play
+;label-play = 
+;label-stop = 
+;label-next = 
+
+;-----CLOCK-------------------------------------;
+
+[module/clock]
+type = internal/date
+label = %{F#666}%{F-} %date%  %{F#e60053}%{F-} %time%
+date = %b %d,
+time = %I:%M %P
+interval = 5
+
+;-----FILESYSTEM--------------------------------;
+
+[module/filesystem]
+type = internal/fs
+mount-0 = /
+mount-1 = /home
+label-mounted =    %mountpoint% %free%
+interval = 10
+fixed-values = true
+spacing = 4
+;label-mounted-overline = ${colors.color6}
+
+;-----TEMPERATURE--------------------------------;
+
+[module/temp]
+type = internal/temperature
+label = %temperature-c%°
+interval = 1
+thermal-zone = 0
+hwmon-path = /sys/devices/platform/coretemp.0/hwmon/hwmon2/temp1_input
+#hwmon-path = /sys/devices/platform/coretemp.0/hwmon/hwmon1/temp1_input
+format = <ramp> <label>
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+ramp-3 = 
+ramp-4 = 
+ramp-4-foreground = ${colors.color1}
+ramp-padding-right = 2
+
+warn-temperature = 80
+units = false 
+
+;-----CPU LOAD MODULE--------------------------------;
+
+[module/cpu]
+type = internal/cpu
+interval = .8
+format = <label> <ramp-coreload>
+label =   
+label-ramp-font = 2
+label-padding = 2
+
+ramp-coreload-0 = ▁
+ramp-coreload-0-foreground = ${colors.foreground}
+ramp-coreload-1 = ▂
+ramp-coreload-1-foreground = ${colors.foreground}
+ramp-coreload-2 = ▃
+ramp-coreload-2-foreground = ${colors.foreground}
+ramp-coreload-3 = ▄
+ramp-coreload-3-foreground = ${colors.foreground}
+ramp-coreload-4 = ▅
+ramp-coreload-4-foreground = ${colors.foreground}
+ramp-coreload-5 = ▆
+ramp-coreload-5-foreground = ${colors.foreground}
+ramp-coreload-6 = ▇
+ramp-coreload-6-foreground = ${colors.color1}
+ramp-coreload-7 = █
+ramp-coreload-7-foreground = ${colors.color1}
+
+;-----VOLUME MODULE--------------------------------;
+
+[module/volume]
+#type = internal/pulseaudio
+#sink = alsa_output.pci-0000_00_1f.3.analog-surround-21
+#use-ui-max = false
+type = internal/alsa
+format-volume = <ramp-volume> <bar-volume> 
+label-muted = "   muted"
+volume-font = 1
+
+bar-volume-width = 12
+bar-volume-indicator = |
+bar-volume-indicator-font = 2
+bar-volume-fill = ─
+bar-volume-fill-foreground = ${colors.color6}
+bar-volume-fill-font = 2
+bar-volume-empty = ─
+bar-volume-empty-font = 2
+bar-volume-empty-foreground = #55
+
+ramp-volume-0 = 
+ramp-volume-1 = 
+ramp-volume-padding = 2
+
+;-----POWER MENU MODULE--------------------------------;
+
+[module/powermenu]
+type = custom/menu
+ 
+label-open = 
+label-close = 
+label-close-foreground = ${colors.color1}
+label-close-padding = 3
+label-separator = |
+label-separator-padding = 1
+ 
+menu-0-0 = REBOOT
+menu-0-0-exec = reboot
+menu-0-1 = SHUTDOWN
+menu-0-1-exec = poweroff
+menu-0-2 = SUSPEND
+menu-0-2-exec = systemctl suspend
+ 
+menu-1-0 = REBOOT
+menu-1-0-exec = reboot
+ 
+menu-2-0 = SHUTDOWN
+menu-2-0-exec = poweroff
