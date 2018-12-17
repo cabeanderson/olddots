@@ -10,4 +10,4 @@ Xft.hintstyle: hintslight
 Xft.lcdfilter: lcddefault 
 
 !st.background:  #ccffffff
-include </home/cabe/.cache/squash/x_colors>
+#include </home/cabe/.cache/squash/x_colors>
