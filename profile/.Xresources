@@ -1,0 +1,13 @@
+! generic X defaults ! 
+!============================================================================== 
+! fonts 
+Xft.dpi: 96 
+Xft.antialias: true 
+Xft.hinting: true 
+Xft.rgba: rgb 
+Xft.autohint: true 
+Xft.hintstyle: hintslight 
+Xft.lcdfilter: lcddefault 
+
+!st.background:  #ccffffff
+include </home/cabe/.cache/squash/x_colors>

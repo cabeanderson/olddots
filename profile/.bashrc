@@ -28,6 +28,7 @@ alias r="ranger"
 alias sr="sudo ranger"
 alias ka="killall"
 alias g="git"
+alias tdae="transmission-daemon -t -u cabe -v singer -p 9091 -a "127.0.0.1""
 alias trem="transmission-remote"
 alias mkd="mkdir -pv"
 
