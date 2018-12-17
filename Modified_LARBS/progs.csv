@@ -53,7 +53,6 @@ A,unclutter-xfixes-git,hides an inactive mouse
 ,unrar,extracts rar's
 ,unzip,unzips zips
 A,urlview,parses URLs in the terminal allowing keyboard-based selection
-A,vim-pathogen,manages vim plugins
 ,wget,downloads sites and files on the command line
 ,xdotool,provides window action utilities on the command line.
 ,youtube-dl,can download any YouTube video (or playlist or channel) when given the link
