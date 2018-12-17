@@ -34,11 +34,11 @@ super + Escape
 
 # Switch to Desktop
 super + ctrl + Up
-	xrandr --output DP-1 --mode 2560x1080 -r 75 --output HDMI-0 --off &
+	xrandr --output DisplayPort-1 --auto --output HDMI-A-1 --off &
 
 # Switch to Projector
 super + ctrl + Down
-	xrandr --output HDMI-0 --mode 1920x1080 -r 60 --output DP-1 --off &
+	xrandr --output HDMI-A-1 --auto --output DisplayPort-1 --off &
 	
 #
 # bspwm hotkeys
@@ -166,17 +166,19 @@ XF86AudioPrev
 # Volume Up
 XF86AudioRaiseVolume
 #	pamixer -i 5
-	amixer set Master 2dB+
+#	amixer set Master 2dB+
+	/home/cabe/.config/dunst/volume.sh up
 
 # Volume Down
 XF86AudioLowerVolume
 #	pamixer -d 5
-	amixer set Master 2dB-
+#	amixer set Master 2dB-
+	/home/cabe/.config/dunst/volume.sh down
 
 # Mute
 XF86AudioMute
-	pamixer -t
-
+	amixer set Master toggle
+	/home/cabe/.config/dunst/volume.sh mute
 #
 # pointer focus/move/resize
 #

@@ -10,6 +10,7 @@ G,https://github.com/lukesmithxyz/dmenu.git,runs commands and provides a UI for 
 ,ttf-linux-libertine,provides the sans and serif fonts for LARBS
 ,ttf-roboto,sans serif for system
 ,ttf-hack,monospace font for system
+,ttf-unifont,font for symbols
 ,ranger,is an extensive terminal file manager that everyone likes
 ,arandr,is a UI for screen adjustment
 ,calcurse,is a lightweight terminal-based calendar
@@ -47,6 +48,7 @@ G,https://github.com/JLErvin/sq,color theme manager
 ,ntfs-3g,allows accessing NTFS partitions
 A,sc-im,is an Excel-like terminal spreadsheet manager
 A,htop-vim-git,provides system usage information and displays processes
+A,polybar,customizable status bar
 ,scrot,can take quick screenshots at your request
 ,tmux,is a terminal multiplexer and the dropdown window in LARBS
 A,unclutter-xfixes-git,hides an inactive mouse
@@ -73,3 +75,4 @@ A,task-spooler,queues commands or files for download
 ,cvt,get monitor settings
 ,openvpn,VPM manager
 ,transmission-cli,torrent daemon and CLI
+,stow,dotfile manager

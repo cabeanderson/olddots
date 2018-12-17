@@ -192,7 +192,7 @@ manualinstall $aurhelper
 installationloop
 
 # Install the dotfiles in the user's home directory
-putgitrepo "$dotfilesrepo" "/home/$name"
+putgitrepo "$dotfilesrepo" "/home/$name/dots/"
 
 # Install the LARBS Firefox profile in ~/.mozilla/firefox/
 #putgitrepo "https://github.com/LukeSmithxyz/mozillarbs.git" "/home/$name/.mozilla/firefox"

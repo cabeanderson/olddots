@@ -2,13 +2,14 @@
 
 sxhkd &
 nm-applet &
-#compton --inactive-dim 0.3 --focus-exclude '_NET_WM_NAME@:s = "rofi"' &
 compton &
-/opt/urserver/urserver-start &
+#mpd &
+#/opt/pia/run.sh --startup &
+/opt/urserver/urserver-start --no-manager --no-notify &
 unclutter &
-/home/cabe/.config/polybar/launch.sh &
-xrandr --output DP-2 --mode 2560x1080 -r 75 &
+xrandr --output DisplayPort-1 --auto & xrandr --output HDMI-A-1 --off &
 feh --bg-fill /home/cabe/.wallpaper.jpg &
+/home/cabe/.config/polybar/launch.sh &
 
 bspc monitor -d terminal web media games draw virtual
 # bspc monitor HDMI-0 -d  projector
@@ -37,7 +38,7 @@ bspc config gapless_monocle      true
 bspc rule -a Gimp desktop='^8' state=floating
 bspc rule -a mplayer2 state=floating
 bspc rule -a virt-manager desktop=^6 
-bspc rule -a Steam desktop=^4 follow=on
+bspc rule -a Steam desktop=^4 
 bspc rule -a Media_Center_24 state=floating
 bspc rule -a "JRiver Display Class" state=fullscreen
 
