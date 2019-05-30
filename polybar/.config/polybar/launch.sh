@@ -7,13 +7,7 @@ killall -q polybar
 while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
  
 # Launch bar
-#polybar top &
 
-for m in $(polybar --list-monitors | cut -d":" -f1); do
-	MONITOR=$m polybar --reload top &
-done
+polybar top &
 
-#my_laptop_external_monitor=$(xrandr --query | grep 'VGA1')
-#if [[ $my_laptop_external_monitor = *connected* ]]; then
-#    polybar top_external &
-#fi
+#dunstify "Polybar launched..."

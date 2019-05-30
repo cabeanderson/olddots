@@ -15,22 +15,29 @@ if [ "$EUID" -ne 0 ]
 fi
 
 export PATH=/home/cabe/bin:$PATH
+export PRINTER=Brother_MFC-7860DW
 
 # System Maintainence
-alias sdn="sudo shutdown now"
+alias sdn="sudo shutdown -h now"
 
 # Some aliases
-alias p="sudo pacman"
+alias e="sudo emerge"
+alias eupdate="sudo emerge -a --update --deep --quiet @world"
+alias herbc="herbstclient"
 alias SS="sudo systemctl"
 alias v="vim"
 alias sv="sudo vim"
-alias r="ranger"
-alias sr="sudo ranger"
+alias n="nnn"
+alias ncm="ncmpcpp"
+alias neo="neofetch"
 alias ka="killall"
 alias g="git"
 alias tdae="transmission-daemon -t -u cabe -v singer -p 9091 -a "127.0.0.1""
 alias trem="transmission-remote"
 alias mkd="mkdir -pv"
+alias tarx="tar -xvpf"
+alias packlist="cat /var/lib/portage/world"
+alias duse="sudo ncdu -rx /"
 
 # Color
 alias ls='ls -hN --color=auto --group-directories-first'
@@ -38,5 +45,4 @@ alias ls='ls -hN --color=auto --group-directories-first'
 # Internet
 alias yt="youtube-dl --add-metadata -ic" # Download video link
 alias yta="yt -x -f bestaudio/best" # Download only audio
-alias YT="youtube-viewer"
 

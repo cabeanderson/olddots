@@ -1,3 +1,4 @@
+browser "nohup firefox --new-tab %u &>/dev/null &"
 external-url-viewer "urlscan -dc"
 
 bind-key j down
@@ -20,19 +21,19 @@ bind-key U show-urls
 bind-key x pb-delete
 bind-key ^t next-unread
 
-color listnormal cyan default
-color listfocus black yellow standout bold
-color listnormal_unread blue default
-color listfocus_unread yellow default bold
-color info red black bold
-color article cyan default
+color listnormal color104 default
+color listfocus black color141 standout bold
+color listnormal_unread color159 default
+color listfocus_unread magenta default bold
+color info color23 black bold
+color article color141 default
 
 #browser linkhandler
 macro , open-in-browser
 macro t set browser "tsp youtube-dl --add-metadata -ic"; open-in-browser ; set browser linkhandler
 macro a set browser "tsp youtube-dl --add-metadata -xic -f bestaudio/best"; open-in-browser ; set browser 
 #linkhandler
-macro v set browser "setsid nohup mpv"; open-in-browser ; set browser linkhandler
+macro m set browser "setsid nohup mpv"; open-in-browser ; set browser linkhandler
 macro w set browser "w3m"; open-in-browser ; set browser linkhandler
 macro p set browser "dmenuhandler"; open-in-browser ; set browser linkhandler
 # c copies the link to the clipboard.

@@ -1,0 +1,969 @@
+# Log file created/rotated Wednesday, 29 May 19 15:15:22 GMT
+2019-05-29 15:15:22 (I) Manager: 192.168.1.192:59261: disconnected
+2019-05-29 15:19:03 (I) Manager: 192.168.1.192:59262: connected
+2019-05-29 15:19:03 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 15:19:03 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 15:19:03 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 15:19:03 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 15:19:03 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 15:24:42 (I) Manager: 192.168.1.192:59262: disconnected
+2019-05-29 15:27:04 (I) Manager: 192.168.1.192:59265: connected
+2019-05-29 15:27:04 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 15:27:04 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 15:27:04 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 15:27:04 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 15:27:04 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 15:30:42 (I) Manager: 192.168.1.192:59265: disconnected
+2019-05-29 15:36:37 (I) Manager: 192.168.1.192:59271: connected
+2019-05-29 15:36:37 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 15:36:37 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 15:36:37 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 15:36:37 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 15:36:37 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 15:38:52 (I) Manager: 192.168.1.192:59271: disconnected
+2019-05-29 16:03:12 (I) Manager: 192.168.1.192:59279: connected
+2019-05-29 16:03:12 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 16:03:12 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 16:03:12 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 16:03:12 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 16:03:12 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 16:05:32 (I) Manager: 192.168.1.192:59279: disconnected
+2019-05-29 16:12:04 (I) Manager: 192.168.1.192:59285: connected
+2019-05-29 16:12:04 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 16:12:04 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 16:12:04 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 16:12:04 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 16:12:04 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 16:15:22 (I) Manager: 192.168.1.192:59285: disconnected
+2019-05-29 16:24:05 (I) Manager: 192.168.1.192:59290: connected
+2019-05-29 16:24:05 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 16:24:05 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 16:24:05 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 16:24:05 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 16:24:05 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 16:26:22 (I) Manager: 192.168.1.192:59290: disconnected
+2019-05-29 16:50:30 (I) Manager: 192.168.1.192:59293: connected
+2019-05-29 16:50:30 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 16:50:30 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 16:50:30 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 16:50:30 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 16:50:30 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 16:52:42 (I) Manager: 192.168.1.192:59293: disconnected
+2019-05-29 16:53:05 (I) Manager: 192.168.1.192:59296: connected
+2019-05-29 16:53:05 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 16:53:05 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 16:53:05 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 16:53:05 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 16:53:05 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 16:55:22 (I) Manager: 192.168.1.192:59296: disconnected
+2019-05-29 17:03:59 (I) Manager: 192.168.1.192:59298: connected
+2019-05-29 17:03:59 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 17:03:59 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 17:03:59 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 17:03:59 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 17:03:59 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 17:07:22 (I) Manager: 192.168.1.192:59298: disconnected
+2019-05-29 17:10:52 (I) Manager: 192.168.1.192:59299: connected
+2019-05-29 17:10:52 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 17:10:52 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 17:10:52 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 17:10:52 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 17:10:52 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 17:15:22 (I) Manager: 192.168.1.192:59299: disconnected
+2019-05-29 17:20:30 (I) Manager: 192.168.1.192:59302: connected
+2019-05-29 17:20:30 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 17:20:30 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 17:20:30 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 17:20:30 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 17:20:30 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 17:24:32 (I) Manager: 192.168.1.192:59302: disconnected
+2019-05-29 17:35:54 (I) Discovery: discovery request from 192.168.1.165:52743
+2019-05-29 17:35:54 (I) Discovery: discovery request from 192.168.1.165:52743
+2019-05-29 17:35:54 (I) Manager: 192.168.1.165:41550: connected
+2019-05-29 17:35:54 (I) Connection: android-80a30706a87fff51: received valid handshake
+2019-05-29 17:35:54 (I) Connection: android-80a30706a87fff51: supports client nonce
+2019-05-29 17:35:54 (I) Connection: android-80a30706a87fff51: ignoring authentication
+2019-05-29 17:35:55 (I) Connection: android-80a30706a87fff51: syncing hash (-904852293)
+2019-05-29 17:35:55 (I) Connection: android-80a30706a87fff51: updating fast capability (true)
+2019-05-29 17:35:55 (I) Connection: android-80a30706a87fff51: starting new session
+2019-05-29 17:35:55 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-29 17:35:55 (I) Agent: loading: Cabe.LinuxMain
+2019-05-29 17:35:55 (I) Agent: loading: Core.Input
+2019-05-29 17:35:56 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-29 17:35:57 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-29 17:39:52 (I) Manager: 192.168.1.192:59303: connected
+2019-05-29 17:39:52 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 17:39:52 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 17:39:52 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 17:39:52 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 17:39:52 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 17:41:16 (I) Manager: 192.168.1.165:41550: disconnected
+2019-05-29 17:42:12 (I) Manager: 192.168.1.192:59303: disconnected
+2019-05-29 17:47:09 (I) Discovery: discovery request from 192.168.1.165:49842
+2019-05-29 17:47:09 (I) Discovery: discovery request from 192.168.1.165:49842
+2019-05-29 17:47:09 (I) Manager: 192.168.1.165:41859: connected
+2019-05-29 17:47:10 (I) Connection: android-80a30706a87fff51: received valid handshake
+2019-05-29 17:47:10 (I) Connection: android-80a30706a87fff51: supports client nonce
+2019-05-29 17:47:10 (I) Connection: android-80a30706a87fff51: ignoring authentication
+2019-05-29 17:47:10 (I) Connection: android-80a30706a87fff51: syncing hash (-904852293)
+2019-05-29 17:47:10 (I) Connection: android-80a30706a87fff51: updating fast capability (true)
+2019-05-29 17:47:10 (I) Connection: android-80a30706a87fff51: starting new session
+2019-05-29 17:47:10 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-29 17:47:10 (I) Agent: loading: Cabe.LinuxMain
+2019-05-29 17:47:11 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-29 17:47:11 (I) Agent: loading: Core.Input
+2019-05-29 17:47:13 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-29 17:51:25 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-29 17:51:25 (I) Agent: loading: Cabe.LinuxMain
+2019-05-29 17:51:25 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-29 17:51:30 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-29 17:56:31 (I) Manager: 192.168.1.165:41859: disconnected
+2019-05-29 18:03:59 (I) Manager: 192.168.1.192:59308: connected
+2019-05-29 18:03:59 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 18:03:59 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 18:03:59 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 18:03:59 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 18:03:59 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 18:07:12 (I) Manager: 192.168.1.192:59308: disconnected
+2019-05-29 18:08:17 (I) Manager: 192.168.1.192:59313: connected
+2019-05-29 18:08:17 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 18:08:17 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 18:08:17 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 18:08:17 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 18:08:17 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 18:10:32 (I) Manager: 192.168.1.192:59313: disconnected
+2019-05-29 18:13:11 (I) Manager: 192.168.1.192:59314: connected
+2019-05-29 18:13:11 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 18:13:11 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 18:13:11 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 18:13:11 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 18:13:11 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 18:15:22 (I) Manager: 192.168.1.192:59314: disconnected
+2019-05-29 18:20:30 (I) Manager: 192.168.1.192:59315: connected
+2019-05-29 18:20:30 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 18:20:30 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 18:20:30 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 18:20:30 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 18:20:30 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 18:22:42 (I) Manager: 192.168.1.192:59315: disconnected
+2019-05-29 18:27:04 (I) Manager: 192.168.1.192:59318: connected
+2019-05-29 18:27:04 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 18:27:04 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 18:27:04 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 18:27:04 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 18:27:04 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 18:29:22 (I) Manager: 192.168.1.192:59318: disconnected
+2019-05-29 18:37:53 (I) Manager: 192.168.1.192:59319: connected
+2019-05-29 18:37:53 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 18:37:53 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 18:37:53 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 18:37:53 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 18:37:53 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 18:40:12 (I) Manager: 192.168.1.192:59319: disconnected
+2019-05-29 18:50:30 (I) Manager: 192.168.1.192:59323: connected
+2019-05-29 18:50:30 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 18:50:30 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 18:50:30 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 18:50:30 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 18:50:30 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 18:52:42 (I) Manager: 192.168.1.192:59323: disconnected
+2019-05-29 18:56:16 (I) Manager: 192.168.1.192:59329: connected
+2019-05-29 18:56:16 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 18:56:16 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 18:56:16 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 18:56:16 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 18:56:16 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 18:58:32 (I) Manager: 192.168.1.192:59329: disconnected
+2019-05-29 19:06:53 (I) Manager: 192.168.1.192:59330: connected
+2019-05-29 19:06:53 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 19:06:53 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 19:06:53 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 19:06:53 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 19:06:53 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 19:09:12 (I) Manager: 192.168.1.192:59330: disconnected
+2019-05-29 19:13:11 (I) Manager: 192.168.1.192:59333: connected
+2019-05-29 19:13:11 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 19:13:11 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 19:13:11 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 19:13:11 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 19:13:11 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 19:15:22 (I) Manager: 192.168.1.192:59333: disconnected
+2019-05-29 19:20:30 (I) Manager: 192.168.1.192:59334: connected
+2019-05-29 19:20:30 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 19:20:30 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 19:20:30 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 19:20:30 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 19:20:30 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 19:25:17 (I) Discovery: discovery request from 192.168.1.165:48870
+2019-05-29 19:25:17 (I) Discovery: discovery request from 192.168.1.165:48870
+2019-05-29 19:25:18 (I) Manager: 192.168.1.165:42492: connected
+2019-05-29 19:25:18 (I) Connection: android-80a30706a87fff51: received valid handshake
+2019-05-29 19:25:18 (I) Connection: android-80a30706a87fff51: supports client nonce
+2019-05-29 19:25:18 (I) Connection: android-80a30706a87fff51: ignoring authentication
+2019-05-29 19:25:18 (I) Connection: android-80a30706a87fff51: syncing hash (-904852293)
+2019-05-29 19:25:18 (I) Connection: android-80a30706a87fff51: updating fast capability (true)
+2019-05-29 19:25:19 (I) Connection: android-80a30706a87fff51: starting new session
+2019-05-29 19:25:19 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-29 19:25:19 (I) Agent: loading: Cabe.LinuxMain
+2019-05-29 19:25:20 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-29 19:25:21 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-29 19:26:52 (I) Manager: 192.168.1.192:59334: disconnected
+2019-05-29 19:27:54 (I) Manager: 192.168.1.165:42503: connected
+2019-05-29 19:27:54 (I) Connection: android-80a30706a87fff51: received valid handshake
+2019-05-29 19:27:54 (I) Connection: android-80a30706a87fff51: supports client nonce
+2019-05-29 19:27:54 (I) Connection: android-80a30706a87fff51: ignoring authentication
+2019-05-29 19:27:54 (I) Connection: android-80a30706a87fff51: syncing hash (-904852293)
+2019-05-29 19:27:54 (I) Connection: android-80a30706a87fff51: updating fast capability (true)
+2019-05-29 19:28:43 (I) Manager: 192.168.1.165:42492: disconnected
+2019-05-29 19:30:57 (I) Manager: 192.168.1.165:42503: disconnected
+2019-05-29 19:33:13 (I) Manager: 192.168.1.192:59337: connected
+2019-05-29 19:33:13 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 19:33:13 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 19:33:13 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 19:33:13 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 19:33:13 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 19:35:32 (I) Manager: 192.168.1.192:59337: disconnected
+2019-05-29 19:35:53 (I) Manager: 192.168.1.192:59340: connected
+2019-05-29 19:35:53 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 19:35:53 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 19:35:53 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 19:35:53 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 19:35:53 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 19:38:12 (I) Manager: 192.168.1.192:59340: disconnected
+2019-05-29 20:04:54 (I) Manager: 192.168.1.192:59341: connected
+2019-05-29 20:04:54 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 20:04:54 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 20:04:54 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 20:04:54 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 20:04:54 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 20:09:12 (I) Manager: 192.168.1.192:59341: disconnected
+2019-05-29 20:13:11 (I) Manager: 192.168.1.192:59345: connected
+2019-05-29 20:13:11 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 20:13:11 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 20:13:11 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 20:13:11 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 20:13:11 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 20:15:22 (I) Manager: 192.168.1.192:59345: disconnected
+2019-05-29 20:20:35 (I) Manager: 192.168.1.192:59346: connected
+2019-05-29 20:20:35 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 20:20:35 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 20:20:35 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 20:20:35 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 20:20:35 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 20:23:52 (I) Manager: 192.168.1.192:59346: disconnected
+2019-05-29 20:27:04 (I) Manager: 192.168.1.192:59355: connected
+2019-05-29 20:27:04 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 20:27:04 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 20:27:04 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 20:27:04 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 20:27:04 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 20:29:22 (I) Manager: 192.168.1.192:59355: disconnected
+2019-05-29 20:33:37 (I) Manager: 192.168.1.192:59356: connected
+2019-05-29 20:33:37 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 20:33:37 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 20:33:37 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 20:33:37 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 20:33:37 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 20:37:12 (I) Manager: 192.168.1.192:59356: disconnected
+2019-05-29 20:42:04 (I) Manager: 192.168.1.192:59357: connected
+2019-05-29 20:42:04 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 20:42:04 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 20:42:04 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 20:42:04 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 20:42:04 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 20:44:22 (I) Manager: 192.168.1.192:59357: disconnected
+2019-05-29 20:50:30 (I) Manager: 192.168.1.192:59360: connected
+2019-05-29 20:50:30 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 20:50:30 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 20:50:30 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 20:50:30 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 20:50:30 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 20:52:42 (I) Manager: 192.168.1.192:59360: disconnected
+2019-05-29 20:58:37 (I) Manager: 192.168.1.192:59361: connected
+2019-05-29 20:58:37 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 20:58:37 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 20:58:37 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 20:58:37 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 20:58:37 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 21:00:52 (I) Manager: 192.168.1.192:59361: disconnected
+2019-05-29 21:02:54 (I) Manager: 192.168.1.192:59362: connected
+2019-05-29 21:02:54 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 21:02:54 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 21:02:54 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 21:02:54 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 21:02:54 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 21:09:12 (I) Manager: 192.168.1.192:59362: disconnected
+2019-05-29 21:12:04 (I) Manager: 192.168.1.192:59366: connected
+2019-05-29 21:12:04 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 21:12:04 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 21:12:04 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 21:12:04 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 21:12:04 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 21:18:02 (I) Manager: 192.168.1.192:59366: disconnected
+2019-05-29 21:20:30 (I) Manager: 192.168.1.192:59369: connected
+2019-05-29 21:20:30 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 21:20:30 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 21:20:30 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 21:20:30 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 21:20:30 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 21:22:42 (I) Manager: 192.168.1.192:59369: disconnected
+2019-05-29 21:27:04 (I) Manager: 192.168.1.192:59370: connected
+2019-05-29 21:27:04 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 21:27:04 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 21:27:04 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 21:27:04 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 21:27:04 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 21:29:22 (I) Manager: 192.168.1.192:59370: disconnected
+2019-05-29 21:31:55 (I) Manager: 192.168.1.192:59373: connected
+2019-05-29 21:31:55 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 21:31:55 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 21:31:55 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 21:31:55 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 21:31:55 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 21:35:52 (I) Manager: 192.168.1.192:59373: disconnected
+2019-05-29 21:42:04 (I) Manager: 192.168.1.192:59379: connected
+2019-05-29 21:42:04 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 21:42:04 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 21:42:04 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 21:42:04 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 21:42:04 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 21:44:22 (I) Manager: 192.168.1.192:59379: disconnected
+2019-05-29 21:52:28 (I) Manager: 192.168.1.192:59382: connected
+2019-05-29 21:52:28 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 21:52:28 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 21:52:28 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 21:52:28 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 21:52:28 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 21:54:42 (I) Manager: 192.168.1.192:59382: disconnected
+2019-05-29 22:00:42 (I) Manager: 192.168.1.192:59389: connected
+2019-05-29 22:00:42 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 22:00:42 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 22:00:42 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 22:00:42 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 22:00:42 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 22:04:02 (I) Manager: 192.168.1.192:59389: disconnected
+2019-05-29 22:07:49 (I) Manager: 192.168.1.192:59397: connected
+2019-05-29 22:07:49 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 22:07:49 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 22:07:49 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 22:07:49 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 22:07:49 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 22:11:52 (I) Manager: 192.168.1.192:59397: disconnected
+2019-05-29 22:13:12 (I) Manager: 192.168.1.192:59403: connected
+2019-05-29 22:13:12 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 22:13:12 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 22:13:12 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 22:13:12 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 22:13:12 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 22:17:52 (I) Manager: 192.168.1.192:59403: disconnected
+2019-05-29 22:20:31 (I) Manager: 192.168.1.192:59407: connected
+2019-05-29 22:20:31 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 22:20:31 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 22:20:31 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 22:20:31 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 22:20:31 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 22:22:42 (I) Manager: 192.168.1.192:59407: disconnected
+2019-05-29 22:27:04 (I) Manager: 192.168.1.192:59408: connected
+2019-05-29 22:27:04 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 22:27:04 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 22:27:04 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 22:27:04 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 22:27:04 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 22:29:12 (I) Manager: 192.168.1.192:59408: disconnected
+2019-05-29 22:36:49 (I) Manager: 192.168.1.192:59409: connected
+2019-05-29 22:36:49 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 22:36:49 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 22:36:49 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 22:36:49 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 22:36:49 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 22:39:02 (I) Manager: 192.168.1.192:59409: disconnected
+2019-05-29 22:50:30 (I) Manager: 192.168.1.192:59414: connected
+2019-05-29 22:50:31 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 22:50:31 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 22:50:31 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 22:50:31 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 22:50:31 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 22:52:32 (I) Manager: 192.168.1.192:59414: disconnected
+2019-05-29 22:58:07 (I) Manager: 192.168.1.192:59418: connected
+2019-05-29 22:58:07 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 22:58:07 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 22:58:07 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 22:58:08 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 22:58:08 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 23:00:12 (I) Manager: 192.168.1.192:59418: disconnected
+2019-05-29 23:05:49 (I) Manager: 192.168.1.192:59419: connected
+2019-05-29 23:05:49 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 23:05:49 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 23:05:49 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 23:05:49 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 23:05:49 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 23:10:02 (I) Manager: 192.168.1.192:59419: disconnected
+2019-05-29 23:12:04 (I) Manager: 192.168.1.192:59422: connected
+2019-05-29 23:12:04 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 23:12:04 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 23:12:04 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 23:12:04 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 23:12:04 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 23:15:22 (I) Manager: 192.168.1.192:59422: disconnected
+2019-05-29 23:24:07 (I) Manager: 192.168.1.192:59426: connected
+2019-05-29 23:24:07 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 23:24:07 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 23:24:07 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 23:24:07 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 23:24:07 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-29 23:26:22 (I) Manager: 192.168.1.192:59426: disconnected
+2019-05-29 23:34:41 (I) Manager: 192.168.1.192:59427: connected
+2019-05-29 23:34:41 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-29 23:34:41 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-29 23:34:41 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-29 23:34:41 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-29 23:34:41 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 00:34:58 (I) Manager: 192.168.1.192:59504: connected
+2019-05-30 00:34:58 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 00:34:58 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 00:34:58 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 00:34:58 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 00:34:58 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 00:35:02 (I) Manager: 192.168.1.192:59427: disconnected
+2019-05-30 00:37:12 (I) Manager: 192.168.1.192:59504: disconnected
+2019-05-30 00:38:07 (I) Manager: 192.168.1.192:59505: connected
+2019-05-30 00:38:07 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 00:38:07 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 00:38:07 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 00:38:07 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 00:38:07 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 00:40:22 (I) Manager: 192.168.1.192:59505: disconnected
+2019-05-30 00:48:04 (I) Manager: 192.168.1.192:59506: connected
+2019-05-30 00:48:04 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 00:48:04 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 00:48:04 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 00:48:04 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 00:48:04 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 00:50:22 (I) Manager: 192.168.1.192:59506: disconnected
+2019-05-30 00:50:34 (I) Manager: 192.168.1.192:59509: connected
+2019-05-30 00:50:34 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 00:50:34 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 00:50:34 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 00:50:34 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 00:50:34 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 00:52:52 (I) Manager: 192.168.1.192:59509: disconnected
+2019-05-30 00:54:32 (I) Manager: 192.168.1.192:59510: connected
+2019-05-30 00:54:32 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 00:54:32 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 00:54:32 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 00:54:32 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 00:54:32 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 00:57:52 (I) Manager: 192.168.1.192:59510: disconnected
+2019-05-30 01:05:29 (I) Discovery: discovery request from 192.168.1.165:59328
+2019-05-30 01:05:29 (I) Discovery: discovery request from 192.168.1.165:59328
+2019-05-30 01:05:30 (I) Manager: 192.168.1.165:43025: connected
+2019-05-30 01:05:30 (I) Connection: android-80a30706a87fff51: received valid handshake
+2019-05-30 01:05:30 (I) Connection: android-80a30706a87fff51: supports client nonce
+2019-05-30 01:05:30 (I) Connection: android-80a30706a87fff51: ignoring authentication
+2019-05-30 01:05:30 (I) Connection: android-80a30706a87fff51: syncing hash (-904852293)
+2019-05-30 01:05:30 (I) Connection: android-80a30706a87fff51: updating fast capability (true)
+2019-05-30 01:05:30 (I) Connection: android-80a30706a87fff51: starting new session
+2019-05-30 01:05:30 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 01:05:30 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 01:05:31 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 01:05:31 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 01:05:32 (I) Agent: loading: Core.Input
+2019-05-30 01:05:53 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 01:05:53 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 01:05:56 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 01:06:38 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 01:06:41 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 01:06:41 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 01:06:44 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 01:07:42 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 01:12:05 (I) Manager: 192.168.1.192:59512: connected
+2019-05-30 01:12:05 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 01:12:05 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 01:12:05 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 01:12:05 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 01:12:05 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 01:14:01 (I) Manager: 192.168.1.165:43025: disconnected
+2019-05-30 01:15:32 (I) Manager: 192.168.1.192:59512: disconnected
+2019-05-30 01:23:32 (I) Manager: 192.168.1.192:59515: connected
+2019-05-30 01:23:32 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 01:23:32 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 01:23:32 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 01:23:32 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 01:23:32 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 01:25:52 (I) Manager: 192.168.1.192:59515: disconnected
+2019-05-30 01:26:49 (I) Discovery: discovery request from 192.168.1.165:46090
+2019-05-30 01:26:49 (I) Discovery: discovery request from 192.168.1.165:46090
+2019-05-30 01:26:49 (I) Manager: 192.168.1.165:43106: connected
+2019-05-30 01:26:50 (I) Connection: android-80a30706a87fff51: received valid handshake
+2019-05-30 01:26:50 (I) Connection: android-80a30706a87fff51: supports client nonce
+2019-05-30 01:26:50 (I) Connection: android-80a30706a87fff51: ignoring authentication
+2019-05-30 01:26:50 (I) Connection: android-80a30706a87fff51: syncing hash (-904852293)
+2019-05-30 01:26:50 (I) Connection: android-80a30706a87fff51: updating fast capability (true)
+2019-05-30 01:26:51 (I) Connection: android-80a30706a87fff51: starting new session
+2019-05-30 01:26:51 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 01:26:51 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 01:26:52 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 01:26:52 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 01:27:38 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 01:27:38 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 01:27:39 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 01:27:41 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 01:28:11 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 01:28:11 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 01:28:12 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 01:28:20 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 01:33:21 (I) Manager: 192.168.1.165:43106: disconnected
+2019-05-30 01:42:43 (I) Manager: 192.168.1.192:59521: connected
+2019-05-30 01:42:43 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 01:42:43 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 01:42:43 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 01:42:43 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 01:42:43 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 01:45:02 (I) Manager: 192.168.1.192:59521: disconnected
+2019-05-30 01:46:12 (I) Manager: 192.168.1.192:59529: connected
+2019-05-30 01:46:12 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 01:46:12 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 01:46:12 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 01:46:12 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 01:46:12 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 01:48:32 (I) Manager: 192.168.1.192:59529: disconnected
+2019-05-30 01:49:08 (I) Discovery: discovery request from 192.168.1.165:48128
+2019-05-30 01:49:08 (I) Discovery: discovery request from 192.168.1.165:48128
+2019-05-30 01:49:09 (I) Manager: 192.168.1.165:43606: connected
+2019-05-30 01:49:10 (I) Connection: android-80a30706a87fff51: received valid handshake
+2019-05-30 01:49:10 (I) Connection: android-80a30706a87fff51: supports client nonce
+2019-05-30 01:49:10 (I) Connection: android-80a30706a87fff51: ignoring authentication
+2019-05-30 01:49:10 (I) Connection: android-80a30706a87fff51: syncing hash (-904852293)
+2019-05-30 01:49:10 (I) Connection: android-80a30706a87fff51: updating fast capability (true)
+2019-05-30 01:49:10 (I) Connection: android-80a30706a87fff51: starting new session
+2019-05-30 01:49:10 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 01:49:10 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 01:49:11 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 01:49:35 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 01:49:36 (I) Agent: loading: Core.Input
+2019-05-30 01:51:16 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 01:51:16 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 01:51:18 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 01:53:25 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 01:53:47 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 01:53:47 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 01:53:48 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 01:56:54 (I) Manager: 192.168.1.192:59532: connected
+2019-05-30 01:56:54 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 01:56:54 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 01:56:54 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 01:56:54 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 01:56:54 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 01:58:02 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 01:58:02 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 01:58:03 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 01:58:06 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 01:58:07 (I) Session: android-80a30706a87fff51: loading (Relmtech.Basic Input)
+2019-05-30 01:58:07 (I) Agent: loading: Relmtech.Basic Input
+2019-05-30 01:58:07 (I) Session: android-80a30706a87fff51: updating (Relmtech.Basic Input)
+2019-05-30 01:58:35 (I) Session: android-80a30706a87fff51: unloading (Relmtech.Basic Input)
+2019-05-30 02:02:12 (I) Manager: 192.168.1.192:59532: disconnected
+2019-05-30 02:02:27 (I) Session: android-80a30706a87fff51: loading (Relmtech.Basic Input)
+2019-05-30 02:02:27 (I) Agent: loading: Relmtech.Basic Input
+2019-05-30 02:02:27 (I) Session: android-80a30706a87fff51: updating (Relmtech.Basic Input)
+2019-05-30 02:02:29 (I) Session: android-80a30706a87fff51: unloading (Relmtech.Basic Input)
+2019-05-30 02:02:30 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 02:02:30 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 02:02:31 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 02:02:34 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 02:06:28 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 02:06:28 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 02:06:29 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 02:06:29 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 02:12:01 (I) Manager: 192.168.1.165:43606: disconnected
+2019-05-30 02:12:03 (I) Discovery: discovery request from 192.168.1.165:43559
+2019-05-30 02:12:03 (I) Discovery: discovery request from 192.168.1.165:43559
+2019-05-30 02:12:03 (I) Manager: 192.168.1.165:43742: connected
+2019-05-30 02:12:04 (I) Connection: android-80a30706a87fff51: received valid handshake
+2019-05-30 02:12:04 (I) Connection: android-80a30706a87fff51: supports client nonce
+2019-05-30 02:12:04 (I) Connection: android-80a30706a87fff51: ignoring authentication
+2019-05-30 02:12:04 (I) Connection: android-80a30706a87fff51: syncing hash (-904852293)
+2019-05-30 02:12:04 (I) Connection: android-80a30706a87fff51: updating fast capability (true)
+2019-05-30 02:12:04 (I) Connection: android-80a30706a87fff51: starting new session
+2019-05-30 02:12:04 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 02:12:04 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 02:12:05 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 02:12:05 (I) Agent: loading: Core.Input
+2019-05-30 02:12:37 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 02:13:13 (I) Manager: 192.168.1.192:59536: connected
+2019-05-30 02:13:13 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 02:13:13 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 02:13:13 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 02:13:13 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 02:13:13 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 02:15:32 (I) Manager: 192.168.1.192:59536: disconnected
+2019-05-30 02:17:13 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 02:17:13 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 02:17:15 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 02:17:35 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 02:20:31 (I) Manager: 192.168.1.192:59537: connected
+2019-05-30 02:20:31 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 02:20:31 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 02:20:31 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 02:20:31 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 02:20:31 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 02:22:42 (I) Manager: 192.168.1.192:59537: disconnected
+2019-05-30 02:23:19 (I) Manager: 192.168.1.165:43742: disconnected
+2019-05-30 02:23:47 (I) Discovery: discovery request from 192.168.1.165:42304
+2019-05-30 02:23:47 (I) Discovery: discovery request from 192.168.1.165:42304
+2019-05-30 02:23:47 (I) Manager: 192.168.1.165:44002: connected
+2019-05-30 02:23:47 (I) Connection: android-80a30706a87fff51: received valid handshake
+2019-05-30 02:23:47 (I) Connection: android-80a30706a87fff51: supports client nonce
+2019-05-30 02:23:47 (I) Connection: android-80a30706a87fff51: ignoring authentication
+2019-05-30 02:23:47 (I) Connection: android-80a30706a87fff51: syncing hash (-904852293)
+2019-05-30 02:23:47 (I) Connection: android-80a30706a87fff51: updating fast capability (true)
+2019-05-30 02:23:52 (I) Connection: android-80a30706a87fff51: starting new session
+2019-05-30 02:23:52 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 02:23:52 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 02:23:52 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 02:23:55 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 02:23:55 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 02:23:55 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 02:24:07 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 02:24:08 (I) Agent: loading: Core.Input
+2019-05-30 02:24:36 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 02:24:36 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 02:24:38 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 02:24:40 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 02:25:13 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 02:25:13 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 02:25:14 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 02:25:28 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 02:25:55 (I) Manager: 192.168.1.192:59540: connected
+2019-05-30 02:25:55 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 02:25:55 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 02:25:55 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 02:25:55 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 02:25:55 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 02:28:12 (I) Manager: 192.168.1.192:59540: disconnected
+2019-05-30 02:32:01 (I) Manager: 192.168.1.165:44002: disconnected
+2019-05-30 02:32:02 (I) Manager: 192.168.1.165:44243: connected
+2019-05-30 02:32:02 (I) Connection: android-80a30706a87fff51: received valid handshake
+2019-05-30 02:32:02 (I) Connection: android-80a30706a87fff51: supports client nonce
+2019-05-30 02:32:03 (I) Connection: android-80a30706a87fff51: ignoring authentication
+2019-05-30 02:32:03 (I) Connection: android-80a30706a87fff51: syncing hash (-904852293)
+2019-05-30 02:32:03 (I) Connection: android-80a30706a87fff51: updating fast capability (true)
+2019-05-30 02:32:05 (I) Connection: android-80a30706a87fff51: starting new session
+2019-05-30 02:32:05 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 02:32:05 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 02:32:06 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 02:32:06 (I) Agent: loading: Core.Input
+2019-05-30 02:33:40 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 02:33:40 (I) Manager: 192.168.1.165:44243: disconnected
+2019-05-30 02:38:42 (I) Discovery: discovery request from 192.168.1.165:35753
+2019-05-30 02:38:42 (I) Discovery: discovery request from 192.168.1.165:35753
+2019-05-30 02:38:42 (I) Manager: 192.168.1.165:44299: connected
+2019-05-30 02:38:42 (I) Connection: android-80a30706a87fff51: received valid handshake
+2019-05-30 02:38:42 (I) Connection: android-80a30706a87fff51: supports client nonce
+2019-05-30 02:38:42 (I) Connection: android-80a30706a87fff51: ignoring authentication
+2019-05-30 02:38:42 (I) Connection: android-80a30706a87fff51: syncing hash (-904852293)
+2019-05-30 02:38:42 (I) Connection: android-80a30706a87fff51: updating fast capability (true)
+2019-05-30 02:38:44 (I) Connection: android-80a30706a87fff51: starting new session
+2019-05-30 02:38:44 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 02:38:44 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 02:38:45 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 02:38:47 (I) Agent: loading: Core.Input
+2019-05-30 02:41:03 (I) Session: android-80a30706a87fff51: unloading (Cabe.LinuxMain)
+2019-05-30 02:46:03 (I) Manager: 192.168.1.165:44299: disconnected
+2019-05-30 02:54:55 (I) Manager: 192.168.1.192:59543: connected
+2019-05-30 02:54:55 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 02:54:55 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 02:54:55 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 02:54:55 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 02:54:55 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 02:59:12 (I) Manager: 192.168.1.192:59543: disconnected
+2019-05-30 03:13:13 (I) Manager: 192.168.1.192:59548: connected
+2019-05-30 03:13:13 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 03:13:13 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 03:13:13 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 03:13:13 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 03:13:13 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 03:15:32 (I) Manager: 192.168.1.192:59548: disconnected
+2019-05-30 03:19:07 (I) Manager: 192.168.1.192:59553: connected
+2019-05-30 03:19:07 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 03:19:07 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 03:19:07 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 03:19:07 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 03:19:07 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 03:22:42 (I) Manager: 192.168.1.192:59553: disconnected
+2019-05-30 03:27:46 (I) Manager: 192.168.1.192:59556: connected
+2019-05-30 03:27:46 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 03:27:46 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 03:27:46 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 03:27:46 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 03:27:46 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 03:31:12 (I) Manager: 192.168.1.192:59556: disconnected
+2019-05-30 03:39:25 (I) Manager: 192.168.1.192:59564: connected
+2019-05-30 03:39:25 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 03:39:25 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 03:39:25 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 03:39:25 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 03:39:25 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 03:42:42 (I) Manager: 192.168.1.192:59564: disconnected
+2019-05-30 03:46:47 (I) Manager: 192.168.1.192:59570: connected
+2019-05-30 03:46:47 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 03:46:47 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 03:46:47 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 03:46:47 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 03:46:47 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 03:49:02 (I) Manager: 192.168.1.192:59570: disconnected
+2019-05-30 03:51:07 (I) Manager: 192.168.1.192:59573: connected
+2019-05-30 03:51:07 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 03:51:07 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 03:51:07 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 03:51:07 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 03:51:07 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 03:53:22 (I) Manager: 192.168.1.192:59573: disconnected
+2019-05-30 03:58:03 (I) Manager: 192.168.1.192:59574: connected
+2019-05-30 03:58:03 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 03:58:03 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 03:58:03 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 03:58:03 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 03:58:03 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 04:00:22 (I) Manager: 192.168.1.192:59574: disconnected
+2019-05-30 04:00:43 (I) Manager: 192.168.1.192:59575: connected
+2019-05-30 04:00:43 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 04:00:43 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 04:00:43 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 04:00:43 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 04:00:43 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 04:03:02 (I) Manager: 192.168.1.192:59575: disconnected
+2019-05-30 04:05:09 (I) Discovery: discovery request from 192.168.1.165:43291
+2019-05-30 04:05:09 (I) Discovery: discovery request from 192.168.1.165:43291
+2019-05-30 04:05:09 (I) Manager: 192.168.1.165:44588: connected
+2019-05-30 04:05:09 (I) Connection: android-80a30706a87fff51: received valid handshake
+2019-05-30 04:05:09 (I) Connection: android-80a30706a87fff51: supports client nonce
+2019-05-30 04:05:09 (I) Connection: android-80a30706a87fff51: ignoring authentication
+2019-05-30 04:05:09 (I) Connection: android-80a30706a87fff51: syncing hash (-904852293)
+2019-05-30 04:05:09 (I) Connection: android-80a30706a87fff51: updating fast capability (true)
+2019-05-30 04:05:15 (I) Connection: android-80a30706a87fff51: starting new session
+2019-05-30 04:05:15 (I) Session: android-80a30706a87fff51: loading (Cabe.LinuxMain)
+2019-05-30 04:05:15 (I) Agent: loading: Cabe.LinuxMain
+2019-05-30 04:05:15 (I) Agent: loading: Core.Input
+2019-05-30 04:05:16 (I) Session: android-80a30706a87fff51: updating (Cabe.LinuxMain)
+2019-05-30 11:08:38 (I) Manager: 192.168.1.165:44588: disconnected
+2019-05-30 11:09:47 (I) App: termination request received
+2019-05-30 11:09:47 (I) HTTPInterface: stopping http interface
+2019-05-30 11:09:47 (I) TCPInterfaceBase: stopping tcp interface
+2019-05-30 11:09:48 (I) UDPInterface: stopping udp interface
+2019-05-30 11:09:48 (I) Discovery: stopping discovery interface
+2019-05-30 12:16:55 (I) Engine: initialized (production release 745)
+2019-05-30 12:16:55 (I) Engine: app: /opt/urserver/urserver
+2019-05-30 12:16:55 (I) Engine: manager: /opt/urserver/manager
+2019-05-30 12:16:55 (I) Engine: config: /home/cabe/.urserver/urserver.config
+2019-05-30 12:16:55 (I) Engine: logs: /home/cabe/.urserver/urserver.log
+2019-05-30 12:16:55 (I) Engine: remotes: /home/cabe/.urserver/remotes
+2019-05-30 12:16:55 (I) Engine: custom: /opt/urserver/custom
+2019-05-30 12:16:55 (I) App: application starting
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/custom/lmedia/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/custom/lmediatab/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/custom/lpower/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/custom/mpv/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/custom/mpd/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/custom/linuxmain/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/EyeTV/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: osx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Beamer/Beamer File Picker/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: osx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Beamer/Beamer/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: osx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/MPC-BE/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Porthole/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: osx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Gaming/Minecraft/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/GOM Player/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/MediaMonkey/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Plex App Win10/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Scroll Wheel/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/MusicBee/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Plex/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/BSPlayer/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/YouTube/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Windows Media Player/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/KMPlayer/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Boxee Keyboard Legacy/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/PowerPoint Advanced/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows osx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Kodi Keyboard Dpad/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Chrome/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Start/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: win
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Groove/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Command/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/SlideShow/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/PowerPoint Basic/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/VLC Web/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/USB-UIRT/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Magnifier/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Basic Input MT/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/VLC/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Picasa/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Google Music/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Pandora/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Safari/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: macosx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/XBMC Web/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Send Text/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/IE/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/JRiver/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Volume/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows macosx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Mac OS X/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: osx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Launcher (Linux)/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/CD-DVD Tray/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows macosx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Netflix App/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Skype/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Task Manager/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows macosx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/TwitchTV/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Windows 8/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/QuickTime Player/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: osx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/XBMC Keyboard/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/foobar2000/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/TellStick Live/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Boxee Keyboard/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Netflix/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/SoundCloud/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Napster/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Launcher (Mac)/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: macosx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Server Manager/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Firefox/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Netflix App Win10/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Windows Photo Viewer/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Pixel/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/MPC-HC/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/iTunes/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows osx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Spotify/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Winamp/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Keyboards/German/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Keyboards/English/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Keyboards/Navigation/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Keyboards/Russian/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Keyboards/Dvorak/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Keyboards/Swedish/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Keyboards/Function/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Keyboards/Arabic/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Media/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Spotify Advanced/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Boxee Web/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Opera/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Hulu Web/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Amazon Prime Video/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/TellStick/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Windows Media Center/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Monitor/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/iPhoto/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: osx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Hulu Desktop/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Basic Input/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Screen/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows macosx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Keynote/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: osx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Plex Keyboard/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/MPlayerX/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: osx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Power/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Kodi Web/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Numpad/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Spotify Advanced Legacy/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows osx
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Daum PotPlayer/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Windows/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Google Presentation/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/MediaPortal/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Performance/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Movies TV/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Kodi Keyboard/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/Spy/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Main/File Manager/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Core/OS/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Core/FS/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Core/Input/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Core/Keyboard/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Core/Mouse/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Core/Script/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Core/Win/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Core/HTTP/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Core/Log/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Examples/IR Offline/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Examples/IR/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Examples/USB-UIRT/meta.prop
+2019-05-30 12:16:55 (I) Loader: skipping remote for platform: windows
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Examples/Keys/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Examples/Run/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Examples/Scripts/meta.prop
+2019-05-30 12:16:55 (I) Loader: loading remote: /home/cabe/.urserver/remotes/bundled/Unified/Examples/HTTP/meta.prop
+2019-05-30 12:16:55 (W) Loader: path does not exist (/opt/urserver/custom)
+2019-05-30 12:16:55 (I) InputBuilderFactoryImpl: loaded X libraries
+2019-05-30 12:16:55 (I) TCPInterfaceBase: started tcp interface on port 9512
+2019-05-30 12:16:55 (I) UDPInterface: started udp interface on port 9512
+2019-05-30 12:16:55 (I) HTTPInterface: started http interface on port 9510
+2019-05-30 12:16:55 (E) BluetoothInterface: bluetooth: could not connect to sdp
+2019-05-30 12:16:55 (I) Discovery: started discovery interface on port 9511
+2019-05-30 12:16:55 (I) App: non-interactive mode
+2019-05-30 12:16:55 (I) App: waiting for termination request...
+2019-05-30 12:19:07 (I) Manager: 192.168.1.192:59850: connected
+2019-05-30 12:19:07 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 12:19:07 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 12:19:07 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 12:19:07 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 12:19:07 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 12:26:25 (I) Manager: 192.168.1.192:59850: disconnected
+2019-05-30 12:31:01 (I) Manager: 192.168.1.192:59852: connected
+2019-05-30 12:31:01 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 12:31:01 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 12:31:01 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 12:31:01 (I) Connection: android-6a672e028935491: updating fast capability (true)
+2019-05-30 12:31:01 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 12:33:15 (I) Manager: 192.168.1.192:59852: disconnected
+2019-05-30 12:33:51 (I) Manager: 192.168.1.192:59862: connected
+2019-05-30 12:33:51 (I) Connection: android-6a672e028935491: received valid handshake
+2019-05-30 12:33:51 (I) Connection: android-6a672e028935491: supports client nonce
+2019-05-30 12:33:51 (I) Connection: android-6a672e028935491: ignoring authentication
+2019-05-30 12:33:52 (I) Connection: android-6a672e028935491: syncing hash (-904852293)
+2019-05-30 12:33:52 (I) Connection: android-6a672e028935491: updating fast capability (true)

@@ -1,28 +1,26 @@
 #! /bin/sh
 
 sxhkd &
-nm-applet &
+#nm-applet &
 compton &
-#mpd &
+mpd &
 #/opt/pia/run.sh --startup &
 /opt/urserver/urserver-start --no-manager --no-notify &
 unclutter &
-xrandr --output DisplayPort-1 --auto & xrandr --output HDMI-A-1 --off &
+xrandr --output DisplayPort-0 --auto & xrandr --output HDMI-A-1 --off &
 feh --bg-fill /home/cabe/.wallpaper.jpg &
-/home/cabe/.config/polybar/launch.sh &
+#/home/cabe/.config/polybar/launch.sh &
 
 bspc monitor -d terminal web media games draw virtual
 # bspc monitor HDMI-0 -d  projector
 
-# monitor 
 # MUST be true otherwise the removed monitor will prevent moving the last
 # desktop to primary monitor
 bspc config remove_unplugged_monitors true
 bspc config remove_disabled_monitors true
 
-
 # setup monitors
-. /home/cabe/.config/bspwm/multimonitor.sh
+#. /home/cabe/.config/bspwm/multimonitor.sh
 
 source "${HOME}/.cache/squash/colors"
 bspc config normal_border_color "${BSPWM_NORMAL}"
@@ -36,31 +34,10 @@ bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 
 bspc rule -a Gimp desktop='^8' state=floating
-bspc rule -a mplayer2 state=floating
-bspc rule -a virt-manager desktop=^6 
-bspc rule -a Steam desktop=^4 
-bspc rule -a Media_Center_24 state=floating
-bspc rule -a "JRiver Display Class" state=fullscreen
-
+bspc rule -a Lxappearance state=floating
+bspc rule -a virt-manager desktop=^6
+bspc rule -a Steam desktop=^4
 
 bspc config super mod4
 bspc config pointer_action1 move
 bspc config click_to_focus true
-
-# autostart programs
-
-# manage wallpaper
-#if [ -x /usr/bin/feh ]; then
-#	if[ -f $HOME/.wallpaper.jpg ]; then
-#		feh --bg-fill /home/cabe/.wallpaper.jpg
-#	else
-#		feh --bg-fill /home/cabe/.wall_gradient.png
-#	fi
-#fi
-
-# display compositor
-#if [ -x /usr/bin/compton ]; then
-#	compton -b --inactive-dim 0.3 --focus-exclude '_NET_WM_NAME@:s = "rofi"' &
-#fi
-#
-wait

@@ -91,15 +91,6 @@ update_wm()
     fi
 }
 
-update_nvim()
-{
-    if [[ -z ${VIM_SCHEME} ]]; then
-        printf "Error: VIM_SCHEME not set: not changing vim colorscheme\n"
-    else
-        sed -i -e "s/colorscheme .*/colorscheme $VIM_SCHEME/g" $VIM_CONFIG
-        reload_nvim
-    fi
-}
 
 update_bar() 
 {
@@ -214,19 +205,6 @@ reload_ob() {
     fi
 }
 
-reload_nvim()
-{
-    if [[ ! $(command -v nvr) ]]; then
-        printf "Error:: neovim-remote not found\n"
-        printf "Please install nvr to reload neovim\n"
-    else
-        inst=($(nvr --serverlist | grep nvim | sort | uniq))
-
-        for nvim_inst in "${inst[@]}"; do 
-            nvr --servername "${nvim_inst}" --remote-send '<Esc>:so ${HOME}/.config/nvim/init.vim<CR>' &
-        done
-    fi
-}
 
 reload_terminals() 
 {
@@ -374,7 +352,6 @@ main()
 
     [[ "${RELOAD_WALLPAPER}" != "NO" ]] && update_wall 
     [[ "${RELOAD_TERMINALS}" != "NO" ]] && update_terminals
-    [[ "${RELOAD_NVIM}" != "NO" ]] && update_nvim
     [[ "${RELOAD_BAR}" != "NO" ]] && update_bar
     [[ "${RELOAD_WM}" != "NO" ]] && update_wm
     [[ "${RELOAD_DUNST}" != "NO" ]] && update_dunst
